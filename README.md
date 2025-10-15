@@ -1,4 +1,4 @@
-# 📚 Sindhi Language Authority Dataset (Phase Two – Preprocessed)
+# 📚 Sindhi Language Authority Dataset (Phase one – Preprocessed)
 
 ### 🏛️ Source: Sindhi Language Authority  
 ### 📤 Uploaded by: *Abdul Majid Bhurgiri, Institute of Language Engineering*  
