@@ -43,6 +43,19 @@ You can use it for:
 
 ---
 
+## 🧹 Preprocessing & Cleaning
+
+To ensure high data quality, the following cleaning steps were applied:
+
+- Removal of **email addresses**, **URLs** and **links**  
+- Elimination of **special characters**, symbols, and **emojis**  
+- Filtering out segments in **other languages** (non-Sindhi text)  
+- Normalization of Sindhi **Unicode characters**  
+- Removal of unnecessary whitespace, repeated punctuation, and formatting artifacts  
+- Ensuring **UTF-8 encoding** for all text content  
+
+The final output is a clean, consistent Sindhi-language news corpus ready for downstream NLP tasks.
+
 ## ⚙️ Technical Details
 
 - **Encoding:** UTF-8  
